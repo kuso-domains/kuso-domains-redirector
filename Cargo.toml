@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 tide = { version = "0.15", default-features = false, features = ["h1-server", "logger"] }
 async-std = { version = "1.8", features = ["attributes"] }
-async-std-resolver = "0.19"
+async-std-resolver = "0.20"
